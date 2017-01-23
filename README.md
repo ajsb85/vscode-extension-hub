@@ -1,5 +1,7 @@
 # hub README
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ajsb85/vscode-extension-hub.svg)](https://greenkeeper.io/)
+
 This is the README for your extension "hub". After writing up a brief description, we recommend including the following sections.
 
 ## Features
